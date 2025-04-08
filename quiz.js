@@ -1,7 +1,7 @@
 function checkAnswers() {
     // Correct answers
     const correctAnswers = {
-        q1: "C.", // The dog chased the ball.
+        q1: "C", // The dog chased the ball.
     };
 
     // Get the user's answers
